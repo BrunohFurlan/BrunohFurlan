@@ -10,7 +10,7 @@ Meu principal objetivo é aprender e entender mais sobre o universo da tecnologi
 
 Sempre fui curioso sobre como as coisas funcionam, principalmente quando o assunto é tecnologia. Estudar **Ciência da Computação** tem sido uma jornada incrível e cheia de descobertas. Estou apenas começando, mas cada dia me sinto mais motivado para continuar aprendendo. 🔍
 
-Além dos estudos, tento manter um equilíbrio saudável com **hobbies** e momentos de lazer 🧘‍♂️. Acredito que a vida é feita de aprendizado constante, mas também de aproveitar os bons momentos. ✨
+Além dos estudos, tento manter um equilíbrio saudável com **hobbies** e momentos de lazer. Acredito que a vida é feita de aprendizado constante, mas também de aproveitar os bons momentos. ✨
 
 ## Vamos conversar! 💬
 
