@@ -4,7 +4,7 @@ Bem-vindo ao meu **README**! Sou estudante de **Ciências da Computação** na *
 
 ## O que estou buscando? 🎯
 
-Meu principal objetivo é aprender e entender mais sobre o universo da tecnologia 💻 e da computação. Estou empolgado com o que vem pela frente e quero me dedicar ao máximo para aproveitar cada oportunidade de aprendizado que aparecer. Cada dia é uma chance de descobrir algo novo e de melhorar minhas habilidades. 🌱
+Meu principal objetivo é aprender e entender mais sobre o universo da tecnologia e da computação. Estou empolgado com o que vem pela frente e quero me dedicar ao máximo para aproveitar cada oportunidade de aprendizado que aparecer. Cada dia é uma chance de descobrir algo novo e de melhorar minhas habilidades. 🌱💻
 
 ## Sobre mim 👨‍💻
 
