@@ -1,6 +1,6 @@
 # Ola, sou o Bruno! 👋
 
-Bem-vindo ao meu **README**! Sou estudante de **Ciências da Computação** na **UNIMAR - Marília** 🎓, estou no **primeiro semestre**. Estou aqui para aprender, evoluir e compartilhar um pouco do meu processo de crescimento. 🚀
+Bem-vindo ao meu **README**! Sou estudante de **Ciências da Computação** na **UNIMAR - Marília** 🎓, estou no **quarto semestre**. Estou aqui para aprender, evoluir e compartilhar um pouco do meu processo de crescimento. 🚀
 
 ## O que estou buscando? 🎯
 
