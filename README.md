@@ -1,24 +1,31 @@
-# Ola, sou o Bruno! 👋
+# Bruno Henrique Furlan
 
-Bem-vindo ao meu **README**! Sou estudante de **Ciências da Computação** na **UNIMAR - Marília** 🎓, estou no **quarto semestre**. Estou aqui para aprender, evoluir e compartilhar um pouco do meu processo de crescimento. 🚀
+Estudante de **Ciência da Computação** na **UNIMAR – Marília** (4º semestre).
 
-## O que estou buscando? 🎯
+## Sobre
 
-Meu principal objetivo é aprender e entender mais sobre o universo da tecnologia e da computação. Estou empolgado com o que vem pela frente e quero me dedicar ao máximo para aproveitar cada oportunidade de aprendizado que aparecer. Cada dia é uma chance de descobrir algo novo e de melhorar minhas habilidades. 🌱💻
+- Na graduação, estudo banco de dados, teoria dos grafos, paradigmas de programação e metodologias ágeis.
+- Desenvolvo projetos acadêmicos e pessoais em Python e C#.
+- Busco evoluir como desenvolvedor, com foco em boas práticas e qualidade de software.
 
-## Sobre mim 👨‍💻
+## Tecnologias
 
-Sempre fui curioso sobre como as coisas funcionam, principalmente quando o assunto é tecnologia. Estudar **Ciência da Computação** tem sido uma jornada incrível e cheia de descobertas. Estou apenas começando, mas cada dia me sinto mais motivado para continuar aprendendo. 🔍
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-Além dos estudos, tento manter um equilíbrio saudável com **hobbies** e momentos de lazer. Acredito que a vida é feita de aprendizado constante, mas também de aproveitar os bons momentos. ✨
+## Ferramentas
 
-## Vamos conversar! 💬
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
-Se você também curte tecnologia, tem dicas ou só quer bater um papo, estou super aberto para conversar! Me mande uma mensagem, será ótimo trocar ideias. 🤝
+## Projetos
 
-- **Email**: bfurlan.h@gmail.com 📧
-- **GitHub**: [BrunohFurlan](https://github.com/BrunohFurlan) 🖥️
+- [ApiJogos](https://github.com/BrunohFurlan/ApiJogos) – API REST em C# com ASP.NET Core, Entity Framework Core e SQLite para cadastro e consulta de jogos
+- [representacoes-de-grafos](https://github.com/BrunohFurlan/representacoes-de-grafos) – lista de adjacência, matriz de adjacência e lista de arestas em Python
+- [bfs-grafos](https://github.com/BrunohFurlan/bfs-grafos) – busca em largura (BFS) e menor caminho em grafos
 
-## Filosofia de vida 💡
+## Contato
 
-Acredito que cada passo dado na nossa jornada é importante, mesmo que pequeno. O aprendizado nunca termina, e estou animado para ver até onde posso chegar. O que importa é continuar, aprender com os erros e celebrar as pequenas vitórias. 🏆🌱
+- **E-mail:** bfurlan.h@gmail.com
